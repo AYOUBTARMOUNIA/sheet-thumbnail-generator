@@ -1,0 +1,14 @@
+{
+  "name": "Sheet Thumbnail Generator",
+  "description": "Génère automatiquement les vignettes (aperçus) des feuilles de l'application à partir de leur rendu réel, sans capture d'écran manuelle.",
+  "type": "visualization",
+  "version": "1.1.0",
+  "author": "AYOUBTARMOUNIA",
+  "license": "MIT",
+  "homepage": "https://github.com/AYOUBTARMOUNIA/sheet-thumbnail-generator",
+  "icon": "extension",
+  "keywords": "thumbnail, vignette, sheet, feuille, aperçu",
+  "dependencies": {
+    "qlik-sense": ">=3.2.x"
+  }
+}

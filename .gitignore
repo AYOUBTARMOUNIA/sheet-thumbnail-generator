@@ -1,0 +1,9 @@
+# Release archives are attached to GitHub Releases, not committed
+*.zip
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
